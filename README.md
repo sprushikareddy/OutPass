@@ -114,42 +114,30 @@ Visit `http://localhost:3000`
 
 ##  Screenshots
 
-**LOGIN PAGE**
-<img width="706" height="350" alt="image" src="https://github.com/user-attachments/assets/01ba6612-bcca-4759-add4-e66d61435cbf" />
+Authentication
+Login PageRegistration Page<img width="400" alt="Login Page" src="https://github.com/user-attachments/assets/01ba6612-bcca-4759-add4-e66d61435cbf" /><img width="400" alt="Registration Page" src="https://github.com/user-attachments/assets/f7e93b32-8089-457d-b8b2-6e8c4698530f" />Role-based login for Student, Parent & WardenNew user registration with role selection
 
-**REGISTRATION PAGE**
-<img width="699" height="396" alt="image" src="https://github.com/user-attachments/assets/f7e93b32-8089-457d-b8b2-6e8c4698530f" />
+Student Portal
+Student HomeApply Outpass<img width="400" alt="Student Home" src="https://github.com/user-attachments/assets/7aaf64f6-6a79-4ae3-a926-6a5aefe48e5d" /><img width="400" alt="Apply Outpass" src="https://github.com/user-attachments/assets/af267008-d0a6-4731-acd1-1a70a9d46438" />Student dashboard with outing optionsSubmit outpass request with dates & reason
 
-**STUDENT HOME PAGE**
-<img width="733" height="412" alt="image" src="https://github.com/user-attachments/assets/7aaf64f6-6a79-4ae3-a926-6a5aefe48e5d" />
+Parent & Warden Portal
+Parent HomeWarden Home<img width="400" alt="Parent Home" src="https://github.com/user-attachments/assets/5e69b713-698a-4545-bd57-aba2a175a034" /><img width="400" alt="Warden Home" src="https://github.com/user-attachments/assets/12654efb-bd8d-4135-adea-0a2b8fe20a1f" />Parent approves/rejects child's outingWarden reviews parent-approved requests
 
-**APPLY OUTPASS**
-<img width="733" height="412" alt="image" src="https://github.com/user-attachments/assets/af267008-d0a6-4731-acd1-1a70a9d46438" />
-
-**PARENT HOME PAGE**
-<img width="724" height="408" alt="image" src="https://github.com/user-attachments/assets/5e69b713-698a-4545-bd57-aba2a175a034" />
-
-**WARDEN HOME PAGE**
-<img width="724" height="408" alt="image" src="https://github.com/user-attachments/assets/12654efb-bd8d-4135-adea-0a2b8fe20a1f" />
-
-**OUTING HISTORY**
-<img width="724" height="408" alt="image" src="https://github.com/user-attachments/assets/f9fee3c5-fdff-4b12-b870-5ecbeb9b4a0e" />
-
-
-
-
-
-
+Outing History
+<div align="center">
+<img width="600" alt="Outing History" src="https://github.com/user-attachments/assets/f9fee3c5-fdff-4b12-b870-5ecbeb9b4a0e" />
+Approved outpasses with QR code for gate verification
+</div>
 
 
 ---
 
 ##  Impact & Metrics
 
-- ✅ Serves **500+ students** with automated approval workflows
-- ⚡ Reduced manual approval time by **~60%**
-- 🔒 Handles **100+ daily requests** via OTP + QR verification
-- ⏱️ Approval turnaround reduced from hours to **under 5 minutes**
+- Serves **500+ students** with automated approval workflows
+- Reduced manual approval time by **~60%**
+- Handles **100+ daily requests** via OTP + QR verification
+- Approval turnaround reduced from hours to **under 5 minutes**
 
 ---
 
